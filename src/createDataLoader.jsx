@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Component } from 'react';
 import config from './config';
 import { debounce } from './util'
 
